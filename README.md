@@ -20,6 +20,11 @@ Of course, there's [his own collection](http://www.cs.yale.edu/homes/perlis-alan
 
 # Others
 
-Tony Hoare, John McCarthy, Donald Knuth
+Tony Hoare, John McCarthy, Donald Knuth, Grace Hopper
 
+# My Own
+
+State is like a biological weapon: powerful stuff, but unless carefully controlled, it will infect everything.
+
+Building it wrong to please the untrained is just doubling-down on stupid.
 
