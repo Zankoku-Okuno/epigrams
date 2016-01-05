@@ -76,6 +76,9 @@ In spite of its name, software engineering requires (cruelly) hard science for i
 
 Projects promoting programming in "natural language" are intrinsically doomed to fail.
 
+### Links
+
+[On the cruelty of really teaching computing science](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html)
 
 ## Tony Hoare
 
@@ -89,7 +92,7 @@ The price of reliability is the pursuit of the utmost simplicity. It is a price 
 
 # Others
 
-TODO: C.A.R. Hoare, John McCarthy, Donald Knuth, Grace Hopper
+TODO: John McCarthy, Donald Knuth, Grace Hopper
 
 That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
