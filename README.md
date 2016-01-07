@@ -8,6 +8,8 @@ Although I try to get links, I'm interested only in good ideas; other people can
 
 Compose interfaces, not state machines.
 
+The cost of complexity is exponential.
+
 -- from a [2007-05-09 Google Talk](https://www.youtube.com/watch?v=hB05UFqOtFA)
 
 ## Alan Perlis
@@ -96,6 +98,14 @@ TODO: John McCarthy, Donald Knuth, Grace Hopper
 
 That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
+There is epicycle on epicycle on epicycle inside this language [C++].
+
+-- Scott Meyers
+
+The only thing that I know of --- that I have personally had some experience with --- that is more complicated than C++ is the US tax code.
+
+-- Scott Meyers
+
 -- George Bool
 
 [W]e now know that neat flowcharts and lots of comments can't salvage bad code, and that all those microseconds and bytes saved don't help when the program doesn't work. 
@@ -107,4 +117,6 @@ That language is an instrument of human reason, and not merely a medium for the 
 State is like a biological weapon: powerful stuff, but unless carefully controlled, it will infect everything.
 
 Building it wrong to please the untrained is just doubling-down on stupid.
+
+Programmers in your language have always had access to the tools you're adding: it's called Lisp.
 
