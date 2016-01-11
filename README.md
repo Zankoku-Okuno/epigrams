@@ -112,6 +112,10 @@ The only thing that I know of --- that I have personally had some experience wit
 
 -- Kernighan & Plauger
 
+[T]he number two is ridiculous and can't exist.
+
+-- Issac Asimov, reflecting Willem van der Poel's zero-one-infinity dictum
+
 # My Own
 
 State is like a biological weapon: powerful stuff, but unless carefully controlled, it will infect everything.
