@@ -26,3 +26,7 @@ In the cellar of the castle, an intricate network of webbing had been constructe
 One day a strong gust of wind sprang up and destroyed the web.
 Frantically the spiders worked to repair the damage.
 They thought it was their webbing that was holding up the castle.
+
+An idealist cannot last long unless he is a realist and a realist cannot last long unless he is an idealist.
+
+-- Talleyrand (probably paraphrased)
